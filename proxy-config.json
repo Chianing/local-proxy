@@ -1,0 +1,17 @@
+[
+  {
+    "mockUrl": "/test",
+    "requestMethod": "POST",
+    "mockResult": "{\"code\":200,\"message\":\"test invoked successfully\"}"
+  },
+  {
+    "mockUrl": "/testWithParam",
+    "requestMethod": "GET",
+    "mockResult": "{\"code\":200,\"message\":\"testWithUrlParam invoked successfully\"}"
+  },
+  {
+    "mockUrl": "/testRestful",
+    "requestMethod": "GET",
+    "mockResult": "{\"code\":200,\"message\":\"testRestful invoked successfully\"}"
+  }
+]
